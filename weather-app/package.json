@@ -1,0 +1,11 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "request": "^2.85.0",
+    "yargs": "^11.0.0"
+  }
+}
